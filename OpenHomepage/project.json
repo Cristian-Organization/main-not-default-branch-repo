@@ -1,6 +1,6 @@
 {
   "name": "CC-OpenHomepage",
-  "description": "CC-Open the browser to you favorite homepage 4",
+  "description": "CC-Open the browser to you favorite homepage 5",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.12.3]",
